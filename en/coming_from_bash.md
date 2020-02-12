@@ -13,7 +13,7 @@ link_next: /
 | `ls <dir>`    | `ls <dir>`| Lists the files in the given directory |
 | `ls pattern*` | `ls pattern*` | Lists files that match a given pattern |
 | `ls -la` | `ls -f` | List files with all available information |
-| `ls -d */` | `ls | where type == Dir` | List directories |
+| `ls -d */` | `ls` | where type == Dir` | List directories |
 | `cd <directory>` | `cd <directory>` | Change to the given directory |
 | `cd` | `cd` | Change to the home directory |
 | `mkdir <path>` | `mkdir <path>` | Creates the given path |
